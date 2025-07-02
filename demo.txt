@@ -1,0 +1,35 @@
+pseudo code
+examples
+box model
+eg and their props
+
+
+
+
+psuedo class helps us to change html properties based on specific events
+
+syntax:
+
+selector:psuedo class{
+    property:value
+}
+
+link, visted,hover
+
+
+hover
+a.link
+a.visited
+
+
+box model:  it is a box wrapped for each html elements
+
+margin:  imaginary space around html elements
+border:   
+padding:
+content:
+
+
+
+
+
